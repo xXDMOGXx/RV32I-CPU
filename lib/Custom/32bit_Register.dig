@@ -82,7 +82,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>rd_enb</string>
+          <string>w_enb</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="80"/>
@@ -99,7 +99,7 @@
           <string>rs1_enb</string>
         </entry>
       </elementAttributes>
-      <pos x="740" y="240"/>
+      <pos x="740" y="280"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -113,7 +113,7 @@
           <string>rs2_enb</string>
         </entry>
       </elementAttributes>
-      <pos x="740" y="280"/>
+      <pos x="740" y="240"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -161,7 +161,7 @@
           <int>32</int>
         </entry>
       </elementAttributes>
-      <pos x="840" y="260"/>
+      <pos x="840" y="300"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -175,7 +175,7 @@
           <int>32</int>
         </entry>
       </elementAttributes>
-      <pos x="840" y="300"/>
+      <pos x="840" y="260"/>
     </visualElement>
   </visualElements>
   <wires>
