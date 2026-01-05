@@ -100,52 +100,14 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>br_enb</string>
-        </entry>
-      </elementAttributes>
-      <pos x="480" y="640"/>
-    </visualElement>
-    <visualElement>
-      <elementName>In</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="1"/>
-        </entry>
-        <entry>
-          <string>Label</string>
-          <string>br_off</string>
+          <string>incr</string>
         </entry>
         <entry>
           <string>Bits</string>
           <int>32</int>
         </entry>
       </elementAttributes>
-      <pos x="520" y="640"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="1"/>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="500" y="620"/>
-    </visualElement>
-    <visualElement>
-      <elementName>32bit_2xMUX.dig</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="1"/>
-        </entry>
-      </elementAttributes>
-      <pos x="480" y="600"/>
+      <pos x="500" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -294,10 +256,6 @@
       <p2 x="480" y="480"/>
     </wire>
     <wire>
-      <p1 x="480" y="600"/>
-      <p2 x="480" y="640"/>
-    </wire>
-    <wire>
       <p1 x="640" y="240"/>
       <p2 x="640" y="280"/>
     </wire>
@@ -322,10 +280,6 @@
       <p2 x="500" y="480"/>
     </wire>
     <wire>
-      <p1 x="500" y="600"/>
-      <p2 x="500" y="620"/>
-    </wire>
-    <wire>
       <p1 x="660" y="140"/>
       <p2 x="660" y="260"/>
     </wire>
@@ -344,10 +298,6 @@
     <wire>
       <p1 x="520" y="420"/>
       <p2 x="520" y="480"/>
-    </wire>
-    <wire>
-      <p1 x="520" y="600"/>
-      <p2 x="520" y="640"/>
     </wire>
     <wire>
       <p1 x="440" y="120"/>
